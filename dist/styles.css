@@ -1,0 +1,16 @@
+.photos {
+  display: 'block';
+}
+
+.main {
+  margin-left: 15%;
+  margin-right: 15%;
+}
+
+.top-box {
+  display: flex;
+}
+
+.booking {
+  width: 50%;
+}

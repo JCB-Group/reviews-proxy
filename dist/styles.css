@@ -14,3 +14,23 @@
 .booking {
   width: 50%;
 }
+
+.canHover:hover {
+  background-color: lightblue;
+  cursor: pointer;
+}
+
+.strikethru {
+  text-decoration: line-through;
+  color: lightgrey;
+  font-weight: 100;
+}
+
+.isSelected {
+  background-color: darkblue;
+  color: white;
+}
+
+.invalid {
+  outline: none;
+}
